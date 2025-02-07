@@ -24,3 +24,5 @@ image dari own drive
 
 
 #### How To Build
+
+#### How to Solve
