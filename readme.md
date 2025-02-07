@@ -26,3 +26,11 @@ image dari own drive
 #### How To Build
 
 #### How to Solve
+
+#### How to Solve 2
+
+#### How to Solve 3
+
+#### How to Solve 4
+
+#### How to Solve 5
